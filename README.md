@@ -25,14 +25,13 @@ This is a Product Management Application built with React and Redux. The applica
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/product-management-app.git
-
+   https://github.com/emreertugrl/react_toolkit_app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Redux_Restaurant_App
+   cd react_toolkit_app
    ```
 
 3. Install the required dependencies
@@ -54,9 +53,9 @@ This is a Product Management Application built with React and Redux. The applica
 
 ## Live Demo
 
-<a href="https://menuapplication.netlify.app/">Netlify Project View</a>
+<a href="https://reacttoolkitapp.netlify.app/">Netlify Project View</a>
 
-## API'ler
+## API
 
 No external APIs were used in this project.
 
