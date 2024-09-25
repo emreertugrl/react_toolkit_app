@@ -38,7 +38,6 @@ This is a Product Management Application built with React and Redux. The applica
 
    ````bash
    npm install
-   ```
    ````
 
 4. Install the required dependencies
